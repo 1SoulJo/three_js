@@ -1,0 +1,28 @@
+{
+  "name": "three-js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "three": "~0.84.0"
+  },
+  "devDependencies": {
+    "mocha": "~3.2.0",
+    "three": "~0.84.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1SoulJo/three_js.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/1SoulJo/three_js/issues"
+  }
+}
